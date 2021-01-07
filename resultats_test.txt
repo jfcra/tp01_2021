@@ -1,0 +1,28 @@
+On branch test
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        resultats_test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+commit 50005a4aa2a24dade6b0e40c045eb5747e1360d4 (HEAD -> test)
+Author: Crave Jean-François <jean-francois.crave@univ-fcomte.fr>
+Date:   Thu Jan 7 17:03:31 2021 +0100
+
+    Creation du fichier resultats_test et ajout du contenu de la commande git status
+
+commit 46319b5347ebeff5a27d89163afbe43c6f7bc2d3
+Author: Crave Jean-François <jean-francois.crave@univ-fcomte.fr>
+Date:   Thu Jan 7 16:57:10 2021 +0100
+
+    Ajout du prenom sur fiche03
+
+commit 2a88e6759b9cdc7fa25136cb999920f499905c5e
+Author: Crave Jean-François <jean-francois.crave@univ-fcomte.fr>
+Date:   Thu Jan 7 16:55:40 2021 +0100
+
+    Creation fiche02 et ajout de Bonjour
+
+commit b3e26268e12dde515935bc548dda9452ffc0c9d2 (master)
+Author: Crave Jean-François <jean-francois.crave@univ-fcomte.fr>
+Date:   Thu Jan 7 16:50:18 2021 +0100
